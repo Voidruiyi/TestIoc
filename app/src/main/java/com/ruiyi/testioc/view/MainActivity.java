@@ -17,6 +17,6 @@ public class MainActivity extends InJectActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        mTextView.setText("1351");
+        mTextView.setText("1351_second");
     }
 }
